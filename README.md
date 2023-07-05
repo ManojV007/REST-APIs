@@ -1,2 +1,2 @@
 # REST-api
-REST Apis
+REST APIs
